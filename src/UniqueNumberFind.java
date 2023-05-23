@@ -16,7 +16,7 @@ public class UniqueNumberFind {
         for(int number : numbers) {
             System.out.println(number);
         }
-
+System.out.println("Mojib");
         //HashSet
 
         Set<String> name = new HashSet<>();
